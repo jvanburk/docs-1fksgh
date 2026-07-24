@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7jwtsa.openesporte.click/sitemap.xml
